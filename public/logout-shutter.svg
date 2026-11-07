@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180">
+<defs><clipPath id="door"><rect x="68" y="53" width="151" height="98"/></clipPath><pattern id="slats" width="8" height="9" patternUnits="userSpaceOnUse"><rect width="8" height="9" fill="#56a591"/><path d="M0 1h8" stroke="#9ad4bc"/><path d="M0 8h8" stroke="#357565"/></pattern></defs>
+<style>.shutter{transform:translateY(0)}.arms{transform-origin:227px 91px;transform:rotate(-58deg)}@media(prefers-reduced-motion:no-preference){.shutter{animation:close 1.48s cubic-bezier(.48,.12,.28,1) both}.arms{animation:pull 1.48s ease-in-out both}@keyframes close{0%,12%{transform:translateY(-90px)}100%{transform:translateY(0)}}@keyframes pull{0%,12%{transform:rotate(27deg)}100%{transform:rotate(-58deg)}}}</style>
+<ellipse cx="160" cy="157" rx="120" ry="7" fill="#104438"/>
+<rect x="59" y="38" width="169" height="116" rx="4" fill="#bfddc8"/><rect x="68" y="51" width="151" height="100" fill="#19483e"/>
+<path d="M75 114h132m-132 22h132" stroke="#629b83" stroke-width="4"/><path d="M85 99h26v14H85zm37-8h22v22h-22zm37 10h32v12h-32z" fill="#cba988"/>
+<g clip-path="url(#door)"><g class="shutter"><rect x="67" y="51" width="154" height="98" fill="url(#slats)"/><path d="M69 149h149" stroke="#193f37" stroke-width="5"/><rect x="133" y="139" width="24" height="5" rx="2" fill="#295b4e"/></g></g>
+<rect x="51" y="22" width="186" height="33" rx="7" fill="#267762"/><text x="144" y="44" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="15" fill="#edfff4" letter-spacing="2">WorkHard</text>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="m228 113-7 37h-7m18-37 8 37h7" stroke="#a7c9bb" stroke-width="7" fill="none"/><path d="M225 82q9-2 13 8l1 27h-20l1-25q0-6 5-10" fill="#6bd9ae"/><circle cx="228" cy="73" r="9" fill="#e8b993"/><path d="M218 71q-1-16 15-10l5 9z" fill="#214a40"/><path class="arms" d="m226 90-12-6-9-16" stroke="#e8b993" stroke-width="6" fill="none"/></g></svg>

@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793772851682,
+      "tag": "0000_high_ma_gnuci",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793773248397,
+      "tag": "0001_good_sally_floyd",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1793783888365,
+      "tag": "0002_optimal_weapon_omega",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1793786246304,
+      "tag": "0003_messy_roxanne_simpson",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1793790208713,
+      "tag": "0004_flowery_jigsaw",
+      "breakpoints": true
+    }
+  ]
+}

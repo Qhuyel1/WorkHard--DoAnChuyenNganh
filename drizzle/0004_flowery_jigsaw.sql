@@ -1,0 +1,1 @@
+ALTER TABLE `shop_accounts` ADD `employee_key` text;

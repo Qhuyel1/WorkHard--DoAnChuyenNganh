@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 330">
+<style>@media(prefers-reduced-motion:no-preference){.slip{animation:f 3.6s ease-in-out infinite alternate}@keyframes f{to{transform:translate(2px,-7px) rotate(2deg);transform-origin:220px 105px}}}</style>
+<circle cx="153" cy="169" r="112" fill="#f4dfd1"/><circle cx="153" cy="169" r="128" fill="none" stroke="#d0bda8" stroke-dasharray="2 8"/>
+<ellipse cx="144" cy="245" rx="108" ry="9" fill="#d5bfd0"/>
+<g stroke="#6c567e" stroke-width="3" stroke-linejoin="round">
+<path d="M111 179h45l8 25H98z" fill="#ac97bb"/><rect x="61" y="99" width="139" height="85" rx="10" fill="#9277ac"/><rect x="69" y="107" width="123" height="65" rx="6" fill="#faf5fb"/>
+<path d="M83 152h10v-14H83zm21 0h10v-26h-10zm21 0h10v-20h-10zm21 0h10v-32h-10z" fill="#ba9bce" stroke="none"/>
+<path d="M67 200h125l22 22H48z" fill="#c2aecf"/><rect x="48" y="221" width="167" height="22" rx="6" fill="#9f86b7"/><path d="M116 231h34" stroke="#f1eaf9" stroke-linecap="round"/>
+<g class="slip"><path d="m198 55 56 9-11 77-6-4-6 2-5-4-6 2-5-4-6 2-6-4-7 2-6-4z" fill="#fffaf0"/><path d="m206 72 34 5m-35 5 24 4m-26 7 31 5" fill="none" stroke="#c6abc8"/><path d="m213 111 5 6 13-10" fill="none" stroke="#54806f"/></g></g></svg>

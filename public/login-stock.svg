@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 330">
+<style>@media(prefers-reduced-motion:no-preference){.scan{animation:s 4s ease-in-out infinite alternate}@keyframes s{0%,15%{transform:translateY(-7px)}85%,100%{transform:translateY(9px)}}}</style>
+<circle cx="145" cy="165" r="111" fill="#e8defa"/><circle cx="145" cy="165" r="128" fill="none" stroke="#c5b4df" stroke-dasharray="2 8"/>
+<g stroke="#765a94" stroke-width="3" stroke-linejoin="round">
+<path d="M46 255V129m199 126V122" fill="none" stroke-width="6"/>
+<rect x="34" y="165" width="222" height="8" rx="4" fill="#9e81b8"/><rect x="34" y="241" width="222" height="8" rx="4" fill="#9e81b8"/>
+<path d="M57 164v-64l37-13 40 12v65z" fill="#e9bc93"/><path d="m57 100 39 12 38-13m-38 13v52" fill="none"/><path d="m75 93 40 12v15" fill="none" stroke="#fff1ce" stroke-width="7"/>
+<rect x="148" y="120" width="79" height="44" rx="4" fill="#c7b2df"/><path d="M182 120h12v16h-12z" fill="#f7edff"/>
+<rect x="66" y="190" width="67" height="50" rx="3" fill="#b1cfc2"/><rect x="148" y="185" width="79" height="55" rx="4" fill="#efd4b4"/><path d="M177 185h15v19h-15z" fill="#fff1dc"/>
+</g><g transform="rotate(-8 76 257)"><rect x="24" y="239" width="99" height="59" rx="10" fill="#fffcff" stroke="#c5b4dc"/><path d="M40 254v26m5-26v26m10-26v26m5-26v26m11-26v26m7-26v26m11-26v26m6-26v26m10-26v26" stroke="#58426f" stroke-width="3"/><path class="scan" d="M33 265h81" stroke="#b774d4" stroke-width="3" stroke-linecap="round"/></g></svg>
